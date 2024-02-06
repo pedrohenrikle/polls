@@ -1,4 +1,6 @@
 {
+  // Checar no "Node Target Mapping", github da Microsoft
+
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
