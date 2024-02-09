@@ -31,6 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Biblotecas:
     - [nodejs](https://nodejs.org/en)
+    - [typescript](https://www.typescriptlang.org/)
     - [prisma](https://www.prisma.io/)
     - [fastify](https://fastify.dev/)
     - [@fastify/cookies](https://github.com/fastify/fastify-cookie)
