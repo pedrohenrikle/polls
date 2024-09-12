@@ -27,7 +27,6 @@ Este é um projeto back-end do desenvolvimento de uma API para criação, votaç
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML, CSS e JavaScript
 - Git e Github
 - Biblotecas:
     - [nodejs](https://nodejs.org/en)
